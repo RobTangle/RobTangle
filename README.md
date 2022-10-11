@@ -58,3 +58,9 @@ I'm very fluent in english, and my native speaking language is spanish.
 
   <img src="https://github-readme-stats.vercel.app/api?username=RobTangle&hide=stars&show_icons=true&theme=dracula&line_height=40">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobTangle&count_private=true&theme=dracula">
+
+<br>
+
+### <h2> My Contact Info </h2>
+
+<a href="https://linkedin.com/in/roberto-augusto-spinelli-980740244" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedIn" width="40" height="40"/> </a>
