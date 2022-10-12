@@ -61,6 +61,19 @@ I'm very fluent in english, and my native speaking language is spanish.
 
 <br>
 
+### <h2>Some of my proyects </h2>
+
+<ul>
+<li>
+ <h3>Mascotapp - PF @SoyHenry Bootcamp - <a href="https://mascotapps.vercel.app/">Link to Website</a></h3>  
+   <video src="https://user-images.githubusercontent.com/105249699/195212222-35e337e7-44bf-403b-8825-58418f81fb78.mp4" width=400 height=300/></li>
+
+   <li><h3> Recipes App - PI @SoyHenry Bootcamp - <a href="https://github.com/RobTangle/PI-Recipes-HENRY">Link to repo </a></h3></li>
+
+</ul>
+<br>
+<hr>
+
 ### <h2> My Contact Info </h2>
 
 <a href="https://linkedin.com/in/roberto-augusto-spinelli-980740244" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedIn" width="40" height="40"/> </a>
