@@ -21,7 +21,7 @@ I've been working on and studing programming and CS since late 2021. I don't hav
 
 I have a background of working as a professional mountain guide for almost 10 years, leading people from all over the world into wild and risky environments. Also, I'm a certificated Wilderness First Responder and participated in several rescues of injured people in wild and dangerous environments. This two professions of mine made me develop many soft skills to be able to work in coordinated groups with the same purpose, and also lead more than 1000 people into remote areas, taking the full responsability of the wellbeing of the people I lead.
 
-In mid october 2022 I completed an intense programming bootcamp (SOY HENRY) for becoming a Full Stack Developer.
+In october 2022 I completed an intense programming bootcamp (SOY HENRY) for becoming a Full Stack Developer.
 At the moment, I'm looking forward to put into practice the knowledge I've acquired this past year, with a special interest in the back-end and DLT technologies.
 
 I'm very fluent in english, and my native speaking language is spanish.
@@ -76,4 +76,4 @@ I'm very fluent in english, and my native speaking language is spanish.
 
 ### <h2> My Contact Info </h2>
 
-<a href="https://linkedin.com/in/roberto-augusto-spinelli-980740244" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedIn" width="40" height="40"/> </a>
+<a href="https://linkedin.com/in/roberto-augusto-spinelli-alcalde-980740244" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedIn" width="40" height="40"/> </a>
