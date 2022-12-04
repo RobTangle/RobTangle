@@ -56,7 +56,7 @@ I'm very fluent in english, and my native speaking language is spanish.
 
 
 </p>
-https://img.icons8.com/color/512/mongoose.png
+
 ### My Streak Stats
 
 <p align="center">
