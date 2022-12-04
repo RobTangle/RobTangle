@@ -75,7 +75,7 @@ I'm very fluent in english, and my native speaking language is spanish.
 
    <li><h3> Recipes App - PI @SoyHenry Bootcamp - <a href="https://github.com/RobTangle/PI-Recipes-HENRY">Link to repo </a></h3></li>
     <li><h3> My Cattle Log - Live Stock App  <PERN> <a href="https://my-cattle-log.vercel.app/">Link to Website </a></h3></li>
-         <li><h3> My Cattle Log - Live Stock App  &lt;MERN&lg; <a href="https://my-cattle-log-mern.vercel.app/">Link to Website </a></h3></li>
+         <li><h3> My Cattle Log - Live Stock App  &lt;MERN&lh; <a href="https://my-cattle-log-mern.vercel.app/">Link to Website </a></h3></li>
 </ul>
 <br>
 <hr>
