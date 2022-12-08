@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 <p>I'm a Full Stack Web Developer, and I'm here on GitHub to share my personal projects, contribute to third-party projects & get inspiration from other people's work.
 
-I've been working on and studying programming and CS since late 2021. I don't have work experience in the I.T world, but I'm very motivated and determined to build a professional career in this fascinating world of computer science. I consider myself a responsible, proactive and fun person, with a passion for solving problems and learning new skills. I've worked on individual and group projects, improving my soft and hard skills.
+I've been studying programming and CS since late 2021. I don't have work experience in the I.T world, but I'm very motivated and determined to build a professional career in this fascinating world of computer science. I consider myself a responsible, proactive and fun person, with a passion for solving problems and learning new skills. I've worked in individual and group projects, improving my soft and hard skills constantly.
 
 I have a background of working as a professional mountain guide for almost 10 years, leading people from all over the world into wild and risky environments. Also, I'm a certificated Wilderness First Responder and participated in several rescues of injured people in wild and dangerous environments. This two professions of mine made me develop many soft skills to be able to work in coordinated groups with the same purpose, and also lead more than 1000 people into remote areas, taking the full responsibility of the wellbeing of the people I lead.
 
-In october 2022 I completed an intense programming bootcamp (SOY HENRY) for becoming a Full Stack Developer.
-At the moment, I'm looking forward to put into practice the knowledge I've acquired this past year, with a special interest in the back-end and DLT technologies.
+In october 2022 I completed an intense programming bootcamp (HENRY) for becoming a Full Stack Developer.
+At the moment, I'm looking forward to put into practice the knowledge I've acquired this past year, with a special interest in back-end and DLT technologies.
 
 I'm very fluent in english, and my native speaking language is spanish.
 
