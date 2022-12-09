@@ -22,7 +22,7 @@ I've been studying programming and CS since late 2021. I don't have work experie
 I have a background of working as a professional mountain guide for almost 10 years, leading people from all over the world into wild and risky environments. Also, I'm a certificated Wilderness First Responder and participated in several rescues of injured people in wild and dangerous environments. This two professions of mine made me develop many soft skills to be able to work in coordinated groups with the same purpose, and also lead more than 1000 people into remote areas, taking the full responsibility of the wellbeing of the people I lead.
 
 In october 2022 I completed an intense programming bootcamp (HENRY) for becoming a Full Stack Developer.
-At the moment, I'm looking forward to put into practice the knowledge I've acquired this past year, with a special interest in back-end and DLT technologies.
+At the moment, I'm looking forward to put into practice the knowledge I've acquired this past year, with a special interest in back-end, data bases and DLT technologies.
 
 I'm very fluent in english, and my native speaking language is spanish.
 
