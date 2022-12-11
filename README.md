@@ -84,3 +84,5 @@ I'm very fluent in english, and my native speaking language is spanish.
 ### <h2> My Contact Info </h2>
 
 <a href="https://linkedin.com/in/roberto-augusto-spinelli-alcalde-980740244" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedIn" width="40" height="40"/> </a>
+</br>
+<a href="https://robertospinelli.vercel.app/" target="_blank">Personal Webpage </a>
